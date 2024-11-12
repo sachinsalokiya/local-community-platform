@@ -69,8 +69,7 @@ npm run dev
 ## Deployment
 
 The application is deployed on Netlify and can be accessed at:
-[https://magnificent-liger-0ecc86.netlify.app](https://magnificent-liger-0ecc86.netlify.app)
-
+https://localconnectfibo.netlify.app
 ## Contributing
 
 1. Fork the repository
